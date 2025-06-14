@@ -5,7 +5,7 @@ import seaborn as sns
 from io import BytesIO
 
 st.set_page_config(layout="wide")
-st.title("📊 Dashboard Sales PT AMI")
+st.title("📊 Dashboard Sales Test")
 
 # Upload
 uploaded_file = st.file_uploader("📂 Upload file Excel (.xlsx)", type=['xlsx'])
